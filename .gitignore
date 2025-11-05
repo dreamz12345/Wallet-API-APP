@@ -1,0 +1,7 @@
+# Ignore credentials and local env files
+credentials.env
+.env
+# Local editor/temp files
+*.swp
+*~
+.DS_Store
